@@ -1,4 +1,4 @@
-1. Why Content Writing Still Matters in the Age of AI
+1.Why Content Writing Still Matters in the Age of AI
 
 We are living in a digital age where everything is easily available. In 2026, artificial intelligence (AI) helps us solve almost every problem. We use AI for study, work, and even writing.
 So the question is:
