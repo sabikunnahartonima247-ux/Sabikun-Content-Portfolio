@@ -28,11 +28,9 @@ The market doesn’t move randomly it mainly depends on demand and supply. If mo
 In real life, most people don’t directly trade on the market. They use brokers or online trading platforms to buy and sell shares. These platforms make the process much easier and more convenient.
 There are also rules in place to keep everything fair. Regulatory authorities monitor the market to make sure everything runs smoothly and no one is cheating.
 Here are a few basic terms that are useful to know:
-
 	- IPO (Initial Public Offering): When a company offers its shares to the public for the first time .
 	- Stock Index: A group of stocks used to understand how the market is performing .
 	- Brokerage Account: An account you need to buy and sell shares .
-	
 If you want to get started, the first step is usually opening a brokerage account. But one thing is very important—the stock market always involves risk. Prices can go up or down anytime, so profit is never guaranteed.
 
 
